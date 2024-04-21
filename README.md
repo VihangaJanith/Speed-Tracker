@@ -5,6 +5,7 @@ Speed Tracker is a cross-platform desktop application that allows users to monit
 ## Features
 
 - **Shows the Download and Upload Speeds of their local PC in Realtime**
+- **Pin to Always Show on Top :** Users can pin the Speed Tracker window to always stay on top of other applications for convenient monitoring.
 
 ## Screenshot
 
