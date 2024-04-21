@@ -1,5 +1,7 @@
 # Speed Tracker - An Electron Network Speed Tracker
 
+Speed Tracker is a cross-platform desktop application that allows users to monitor their download and upload speeds on their PC in real-time.
+
 ## Features
 
 - **Shows the Download and Upload Speeds of their local PC in Realtime**
